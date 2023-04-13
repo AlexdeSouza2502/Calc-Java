@@ -27,3 +27,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 Licença
 Este projeto está licenciado sob a MIT License.
+![image](https://user-images.githubusercontent.com/62069087/231905765-7ac8cbdf-0da1-4c1f-8f6d-e9539c16e9e6.png)
