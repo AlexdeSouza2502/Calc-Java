@@ -1,9 +1,9 @@
-#Calculadora Android
+# Calculadora Android
 Esta é uma calculadora simples desenvolvida utilizando o Android Studio API 30.
 
 Calculadora Android
 
-#Funcionalidades
+# Funcionalidades
 A calculadora possui as seguintes funcionalidades:
 
 Soma (+)
@@ -13,7 +13,7 @@ Divisão (/)
 Porcentagem (%)
 Limpar (C)
 
-#Instalação
+# Instalação
 Para instalar e testar a calculadora no seu dispositivo Android, siga as seguintes etapas:
 
 Faça o download do arquivo APK da calculadora.
